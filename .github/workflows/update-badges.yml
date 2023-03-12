@@ -1,5 +1,4 @@
 name: Update badges
-
 on:
   schedule:
     # Runs at 0am UTC every day
@@ -10,4 +9,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
+      - uses: pemtajo/badge-readme@main
+        
