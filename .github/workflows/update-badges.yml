@@ -9,5 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-      - uses: pemtajo/badge-readme@main
+        uses: pemtajo/badge-readme@main
+        
         
