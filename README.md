@@ -19,8 +19,8 @@ I am currently acquiring AWS experience to become a Solutions Architect.
 
 
 ![vinyl-decal-sticker-14380](https://user-images.githubusercontent.com/107459011/224762336-dbcdbc38-3cd5-4ee8-a142-04b87d37bf00.jpg)
+## My certifications:
 <!--START_SECTION:badges-->
-
 [![AWS Learning: Serverless](https://images.credly.com/size/130x130/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png)](http://www.credly.com/badges/f19bafaa-1d8e-4b5e-8080-b0710e21a87c "AWS Learning: Serverless")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/130x130/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/0cdee379-0242-43d4-8e97-18d1e8231b4f "AWS Certified Solutions Architect – Associate")
 [![AWS Learning: Architecting](https://images.credly.com/size/130x130/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](http://www.credly.com/badges/41fdc0a7-f287-461a-b691-576dacbff645 "AWS Learning: Architecting")
