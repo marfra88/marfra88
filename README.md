@@ -3,18 +3,17 @@
  <source media="(prefers-color-scheme: dark)" srcset="https://prof3223.s3.eu-north-1.amazonaws.com/profile.png">
  <source media="(prefers-color-scheme: light)" srcset="https://prof3223.s3.eu-north-1.amazonaws.com/profile56.png">
  <img alt="YOUR-ALT-TEXT" src="https://prof3223.s3.eu-north-1.amazonaws.com/profile.png">
-</picture> <div id="badges">
-  <a href=“https://www.linkedin.com/in/marco-franchi-fi">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
+</picture> 
 
 
 ## About me!
 
 Hi, I'm Marco. I am an ICT specialist interested in Cloud Computing, Machine Learning and Artificial Intelligence.
-I am currently acquiring AWS experience to become a Solutions Architect.
+I am currently acquiring AWS experience to become a Solutions Architect. <div id="badges">
+  <a href=“https://www.linkedin.com/in/marco-franchi-fi">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 
 
