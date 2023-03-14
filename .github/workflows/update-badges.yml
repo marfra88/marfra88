@@ -17,7 +17,7 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           REPOSITORY: marfra88/marfra88
-          CREDLY_USER: marco-franchi.81cf5609
-          CREDLY_SORT: RECENT
-          BADGE_SIZE: 130
+          CREDLY_USER: ${{ secrets.CREDLY_USER }}
+          CREDLY_SORT: POPULAR
+          BADGE_SIZE: 110
           
