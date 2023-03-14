@@ -16,8 +16,8 @@ jobs:
         uses: pemtajo/badge-readme@2.3.0
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          REPOSITORY: marfra88/marfra88
+          REPOSITORY: ${{ variables.REPO }}
           CREDLY_USER: ${{ secrets.CREDLY_USER }}
-          CREDLY_SORT: POPULAR
+          CREDLY_SORT: ${{ secrects.CREDLY_SORT }}
           BADGE_SIZE: 110
           
