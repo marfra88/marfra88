@@ -17,7 +17,6 @@ I am currently acquiring AWS experience to become a Solutions Architect. :comput
 
 ## My certifications:
 <!--START_SECTION:badges-->
-
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/893e92a4-e64a-4923-a000-cdb872ffd12f "Microsoft Certified: Azure Fundamentals")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/086f68e6-e154-4349-b665-b44202f54e5c "AWS Certified Cloud Practitioner")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/0cdee379-0242-43d4-8e97-18d1e8231b4f "AWS Certified Solutions Architect – Associate")
