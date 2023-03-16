@@ -19,5 +19,5 @@ jobs:
           REPOSITORY: ${{ vars.REPO }}
           CREDLY_USER: ${{ secrets.CREDLY_USER }}
           CREDLY_SORT: ${{ vars.CREDLY_SORT }}
-          BADGE_SIZE: 110
+          BADGE_SIZE: 120
           
