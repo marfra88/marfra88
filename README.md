@@ -18,12 +18,13 @@ I am currently acquiring AWS experience to become a Solutions Architect. :comput
 ## My certifications:
 <!--START_SECTION:badges-->
 
+[![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/120x120/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](http://www.credly.com/badges/119a4596-cb0c-4480-9124-8e08d28f4c24 "AWS Certified Solutions Architect – Professional")
 [![AWS Cloud Quest: Security](https://images.credly.com/size/120x120/images/e66468bd-5a58-4136-8fb5-994e13501cf5/image.png)](http://www.credly.com/badges/d9a4f0a5-0fad-4966-aac9-c69bbf293fee "AWS Cloud Quest: Security")
 [![AWS Cloud Quest: Solutions Architect](https://images.credly.com/size/120x120/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png)](http://www.credly.com/badges/bd0d0640-673e-4799-844f-775ec3c5208a "AWS Cloud Quest: Solutions Architect")
 [![AWS Learning: Serverless](https://images.credly.com/size/120x120/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png)](http://www.credly.com/badges/f19bafaa-1d8e-4b5e-8080-b0710e21a87c "AWS Learning: Serverless")
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/120x120/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/0cdee379-0242-43d4-8e97-18d1e8231b4f "AWS Certified Solutions Architect – Associate")
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/120x120/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/ec08988b-e325-42b8-81bf-2e6a1bcb9673 "AWS Certified Solutions Architect – Associate")
 [![AWS Learning: Architecting](https://images.credly.com/size/120x120/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](http://www.credly.com/badges/41fdc0a7-f287-461a-b691-576dacbff645 "AWS Learning: Architecting")
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/120x120/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/086f68e6-e154-4349-b665-b44202f54e5c "AWS Certified Cloud Practitioner")
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/120x120/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/c6a61645-3477-464c-be14-4f2e91c88316 "AWS Certified Cloud Practitioner")
 [![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/120x120/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/7683030c-03b1-43db-a054-ff933399b933 "AWS Cloud Quest: Cloud Practitioner")
 [![MTA: Security Fundamentals - Certified 2020](https://images.credly.com/size/120x120/images/7fac65ba-b029-4884-b817-28bb047ac0f7/MTA-Security_Fundamentals.png)](http://www.credly.com/badges/15042395-fe39-4b63-8dc6-127a69d9d486 "MTA: Security Fundamentals - Certified 2020")
 [![MTA: Windows Operating System Fundamentals - Certified 2020](https://images.credly.com/size/120x120/images/9da17576-0461-4493-95d8-184f77fa2677/MTA-Windows_Operating_System_Fundamentals.png)](http://www.credly.com/badges/0d59b0ee-525b-44a0-af67-fcc5a4ca9a31 "MTA: Windows Operating System Fundamentals - Certified 2020")
