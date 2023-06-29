@@ -18,6 +18,7 @@ I am currently acquiring AWS experience to become a Solutions Architect. :comput
 ## My certifications:
 <!--START_SECTION:badges-->
 
+[![AWS Cloud Quest: Machine Learning](https://images.credly.com/size/120x120/images/d85070dc-b233-4848-9db4-c55319435b67/image.png)](http://www.credly.com/badges/971b704f-2f43-4213-a82b-499327a4e328 "AWS Cloud Quest: Machine Learning")
 [![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/120x120/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](http://www.credly.com/badges/119a4596-cb0c-4480-9124-8e08d28f4c24 "AWS Certified Solutions Architect – Professional")
 [![AWS Cloud Quest: Security](https://images.credly.com/size/120x120/images/e66468bd-5a58-4136-8fb5-994e13501cf5/image.png)](http://www.credly.com/badges/d9a4f0a5-0fad-4966-aac9-c69bbf293fee "AWS Cloud Quest: Security")
 [![AWS Cloud Quest: Solutions Architect](https://images.credly.com/size/120x120/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png)](http://www.credly.com/badges/bd0d0640-673e-4799-844f-775ec3c5208a "AWS Cloud Quest: Solutions Architect")
