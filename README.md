@@ -18,6 +18,7 @@ I am currently acquiring AWS experience to become a Solutions Architect. :comput
 ## My certifications:
 <!--START_SECTION:badges-->
 
+[![HashiCorp Certified: Vault Associate (002)](https://images.credly.com/size/120x120/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png)](http://www.credly.com/badges/23a2a741-3a9d-4beb-858e-0a206a373025 "HashiCorp Certified: Vault Associate (002)")
 [![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/120x120/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)](http://www.credly.com/badges/a68e5a94-ac06-4317-a6e4-7ce0b0cb4d37 "HashiCorp Certified: Terraform Associate (003)")
 [![AWS Cloud Quest: Machine Learning](https://images.credly.com/size/120x120/images/d85070dc-b233-4848-9db4-c55319435b67/image.png)](http://www.credly.com/badges/971b704f-2f43-4213-a82b-499327a4e328 "AWS Cloud Quest: Machine Learning")
 [![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/120x120/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](http://www.credly.com/badges/119a4596-cb0c-4480-9124-8e08d28f4c24 "AWS Certified Solutions Architect – Professional")
